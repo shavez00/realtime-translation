@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Start>
+    <Stream url="wss://934e14b89e0d.ngrok.io/"></Stream>
+  </Start>
+  <Connect>
+        <Room participantIdentity='alice'>DailyStandup</Room>
+  </Connect>
+  <Pause length="40"/>
+</Response>
